@@ -1,0 +1,11 @@
+@media (max-width: 1200px){
+    #header #logo{
+        max-width: 100px;
+        margin-left: 10px;
+    }
+    #header selec #btn-enter{
+        font-size: 10;
+        padding: 4 17;
+        margin-right: 10px;
+    }
+}
